@@ -1,5 +1,5 @@
 # Maticová knihovna
-Zápočtový projekt programování 2
+Alexander Hlavsa - Zápočtový projekt programování 2
 
 Návod na instalaci
 -	K instalaci maticové knihovny je třeba stáhnout soubor s kódem např. pod názvem Maticova_knihovna.py
