@@ -1,4 +1,4 @@
-# Maticová-knihovna
+# Maticová knihovna
 Zápočtový projekt programování 2
 
 Návod na instalaci
