@@ -13,7 +13,7 @@ Popis knihovny
 -	Základem celé knihovny je class Matrix, ve kterém jsou implementovány jednotlivé funkce
 -	Všechny funkce lze volat buď A.funkce(), nebo mp.Matrix.funkce(A), kde A je matice pro kterou chceme funkci provést
 -	Pro všechny funkce je zřízené vhodné zaokrouhlení pro pohodlnou a přehlednou práci: 
-- Kód předchází pythnovským zaokrouhlovacím chybám tedy např. číslo 1.000000000001 se uloží a vypíše jako 1 
+- Kód předchází pythonovským zaokrouhlovacím chybám tedy např. číslo 1.000000000001 se uloží a vypíše jako 1 
 -	Při výpisu matice a jejích hodnot se vypíšou hodnoty zaokrouhlené na 3 desetinná místa, ale uloženy zůstávají přesné nezaokrouhlené hodnoty pro další přesné počítání (funkce __str__  a  __repr__)
 - Každá matice A má 4 základní artributy:
   
