@@ -1,5 +1,6 @@
 # Maticová-knihovna
 Zápočtový projekt programování 2
+
 Návod na instalaci
 -	K instalaci maticové knihovny je třeba stáhnout soubor s kódem např. pod názvem Maticova_knihovna.py
 -	Vložit tento soubor do stejné složky jako nový kód, který se chystáte psát
