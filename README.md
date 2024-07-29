@@ -4,7 +4,7 @@ Alexander Hlavsa - Zápočtový projekt programování 2
 Návod na instalaci
 -	K instalaci maticové knihovny je třeba stáhnout soubor s kódem např. pod názvem Maticova_knihovna.py
 -	Vložit tento soubor do stejné složky jako nový kód, který se chystáte psát
--	Otevřít tento soubor např. ve VS Code 
+-	Otevřít tuto složku např. ve VS Code 
 -	Do  nového kódu napsat příkaz „import Maticova_knihovna“ nebo „ import Maticova_knihovna as M“
 -	Jakmile kód spustíte, VS code automaticky vytvoří složku __pycache__ a váš kód bude fungovat
 -	Můžete začít psát
