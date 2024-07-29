@@ -92,7 +92,7 @@ Popis knihovny
 Testování:
 -	Pro knihovnu jsem vytvořil testovací kód na jednotkové testy pomocí knihovny unittest
 -	V tomto kódu jsem vytvořil několik matic a vektorů s různými vlastnostmi pro otestování všech funkcí
--	Do tohoto kódu jsem importoval také knihovnu numpy, díky které mohu zároveň testovat i validovat moji knihovnu
+-	Importoval jsem také knihovnu numpy, díky které mohu zároveň testovat i validovat moji knihovnu
 -	Některé funkce, které jsem vytvořil pro můj class Matrix v numpy nejsou(nebo jsem je alespoň nedokázal najít – např Gaussova eliminace), ale díky matematickému spojení jednotlivých funkci jsem otestoval všechny funkce, že fungují správně. Tedy kupříkladu zmiňovaná Gaussova eliminace je testována třeba při testu řešení rovnice A*x = b 
 -	Všechny funkce tedy fungují správně a jsou validovány s funkcemi v numpy
 
